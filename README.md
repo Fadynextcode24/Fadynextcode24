@@ -5,24 +5,10 @@
 # Hi 👋 I'm Fadi Sulaiman
 
 ### AI & Data Science Undergraduate
+
 💻 Full Stack Developer  
-🤖 Machine Learning Enthusiast
-
-Currently building AI-powered applications, full-stack projects, and constantly learning new technologies.
-
-### 🌐 Connect With Me
-
-<a href="https://www.linkedin.com/in/fadi-sulaiman">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://github.com/Fadynextcode24">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
-</a>
-
-<a href="mailto:fadhisulaimanunited@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white">
-</a>
+🤖 Machine Learning Enthusiast  
+🚀 Currently building a **RAG (Retrieval-Augmented Generation) Pipeline**
 
 </td>
 
