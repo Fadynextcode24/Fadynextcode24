@@ -1,70 +1,47 @@
-<h1 align="center">Hi 👋 I'm Fadi Sulaiman</h1>
-
-<p align="center">
-AI & Data Science Undergraduate • Full Stack Developer • Machine Learning Enthusiast
-</p>
-
-<p align="center">
-<a href="https://github.com/Fadynextcode24">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
-</a>
-<a href="https://linkedin.com/in/fadi-sulaiman">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
-</a>
-<a href="mailto:fadhisulaimanunited@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white">
-</a>
-</p>
-
----
-
 # 💻 Tech Stack
 
-## Languages
+### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,kotlin,c,js,html,css,r,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,java,kotlin,c,js,html,css,r,mysql" />
 </p>
 
-## Frameworks & Libraries
+### Frameworks & Libraries
 
 <p>
-<img src="https://skillicons.dev/icons?i=django,flask,react,androidstudio,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=django,flask,react,androidstudio" />
 </p>
-
-## Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+  <img src="https://img.shields.io/badge/Django_REST_Framework-ff1709?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
 </p>
 
-## Tools
+### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
 </p>
 
----
+### Tools
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Fadynextcode24&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fadynextcode24&layout=compact&theme=tokyonight"/>
-
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma" />
 </p>
 
----
+<p>
+  <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+</p>
 
-## 🔥 Current Focus
+### Concepts
 
-- 🤖 Artificial Intelligence
-- 📊 Machine Learning
-- 🌐 Full Stack Development
-- 🧩 Competitive Programming
-
----
-
-⭐ Thanks for visiting my profile!
+<p>
+  <img src="https://img.shields.io/badge/OOP-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DSA-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data_Structures-6A1B9A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Algorithms-E65100?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Networking-795548?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Operating_Systems-607D8B?style=for-the-badge" />
+</p>
