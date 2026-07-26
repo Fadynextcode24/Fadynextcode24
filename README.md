@@ -1,4 +1,4 @@
-<table>
+
 <tr>
 <td width="60%">
 
@@ -18,7 +18,7 @@
 
 </td>
 </tr>
-</table>
+
 
 
 
