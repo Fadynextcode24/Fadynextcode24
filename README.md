@@ -1,6 +1,6 @@
-
+<table>
 <tr>
-<td width="60%">
+<td width="60%" valign="top">
 
 # Hi 👋 I'm Fadi Sulaiman
 
@@ -12,15 +12,15 @@
 
 </td>
 
-<td width="40%" align="right">
+<td width="40%" align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3lqeDZyMTRjaW5rMjMwMXV5dHVlN2E5czRmNHBvanIzc3JreHN6NSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/cByts7baForf4uj0eU/giphy.gif" width="280"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3lqeDZyMTRjaW5rMjMwMXV5dHVlN2E5czRmNHBvanIzc3JreHN6NSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/cByts7baForf4uj0eU/giphy.gif" width="280">
 
 </td>
 </tr>
+</table>
 
-
-
+---
 
 # 💻 Tech Stack
 
